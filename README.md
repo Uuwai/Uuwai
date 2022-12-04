@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uuwai
 - 👀 I’m interested in 
-- 🌱 I’m currently learning C#. 
+- 🌱 I’m currently learning HTML, CSS. 
 - :mending_heart:
 
 <!---
