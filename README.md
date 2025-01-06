@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Uuwai
 - 👀 I’m interested in 
 - 🌱 I’m currently learning HTML, CSS. 
+- only on github
 - :mending_heart:
 
 <!---
