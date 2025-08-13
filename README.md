@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uuwai
 - 👀 I’m interested in Open Source and AI
 - 🌱 I’m currently learning HTML, CSS. 
-- only on github, if you saw me on Youtube, X , or Other socials, that isn't me.
+- only on github, if you saw me on Youtube, X , or Other socials, that isn't me. And I don't play Gacha Games.
 - :mending_heart:
 
 <!---
