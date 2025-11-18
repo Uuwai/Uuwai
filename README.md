@@ -2,7 +2,9 @@
 - 👀 I’m interested in Open Source and AI
 - 🌱 I’m currently learning HTML, CSS. 
 - only on github, if you saw me on Youtube, X , or Other socials, that isn't me. And I don't play Gacha Games.
-   - (https://youtube.com/@uuwai1?si=YCpvlneLkMfakk2v)[Example of unauthorized channel]
+
+   [Example of unauthorized channel](https://youtube.com/@uuwai1)
+
 - :mending_heart:
 
 <!---
